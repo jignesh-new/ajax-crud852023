@@ -21,6 +21,9 @@
         </div>
         <button type="submit" class="btn btn-info">Submit</button>
     </form>
+    <div class="container">
+        <div class="row"></div>
+    </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
     <script>
         $(document).ready(function () {
